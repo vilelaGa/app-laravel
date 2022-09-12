@@ -12,7 +12,7 @@ class Jogo extends Model
     protected $fillable = [
         'nome',
         'categoria',
-        'ano_cria',
-        'valor'
+        'ano_criacao',
+        'valor',
     ];
 }
